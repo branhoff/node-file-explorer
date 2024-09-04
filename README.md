@@ -10,12 +10,10 @@ This project is a simple Node.js application that recursively explores directori
    cd node-file-explorer
    ```
 
-2. Install dependencies (if any):
+2. Install dependencies:
    ```
    npm install
    ```
-
-   Note: This project uses built-in Node.js modules, so you might not need to install any additional dependencies.
 
 ## Running the Application
 
